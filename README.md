@@ -1,3 +1,4 @@
+## Ex-02_DS_Outlier
 ## AIM:
 To detect and remove outliers from the given data and save the final data.
 
