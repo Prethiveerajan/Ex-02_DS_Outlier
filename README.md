@@ -24,10 +24,11 @@ Apply Z-score function defined in scipy library to detect the outliers.
 Apply Statistical Method "Interquartile Range(IQR)" ,to remove the Outliers from the Dataset.
 
 ## CODE:
-'''
+````
 Developed By: Prethiveerajan P
+
 Register No: 212221230079
-'''
+````
 ```
 import pandas as pd
 df=pd.read_csv("weight.csv")
