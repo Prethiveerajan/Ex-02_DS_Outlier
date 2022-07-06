@@ -77,5 +77,7 @@ df2_new
 
 ## Result:
 The Outliers are detected and removed from the Dataset.
+https://colab.research.google.com/drive/1yjDPRnv9VlQnXcC5Swg80NFEKL6N_gLx?usp=sharing
+
 
 
